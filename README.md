@@ -1,1 +1,2 @@
-# codsoft_divyanshh_project
+# CODSOFE_AUGUST
+Internship tasks for CODSOFT
